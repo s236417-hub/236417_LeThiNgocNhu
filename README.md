@@ -117,3 +117,9 @@ Sensitive information must be stored in environment variables and must not be co
 ## 8. Deployment
 
 The GitHub repository URL, Docker Hub image URLs, frontend URL, and backend API URL will be added after deployment is completed.
+## 9. Database Information
+
+- Database: 236417_LeThiNgocNhu
+- Collection: foods
+- Database: MongoDB Atlas
+- Sample data: 3 food items
